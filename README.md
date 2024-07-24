@@ -1,4 +1,3 @@
-# HR-Data-Analytics
 # HR Analytics Dashboard
 
 This repository contains a Power BI project for HR analytics. The project includes visualizations and insights based on HR data, focusing on various metrics such as employee attrition, active employee count, and average years of service.
